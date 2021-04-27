@@ -2,6 +2,6 @@
 
 This is a really awesome website
 
-changes in my branch
-
 edited in update-readme branch
+
+Updated locally
